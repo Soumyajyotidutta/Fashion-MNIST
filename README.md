@@ -2,7 +2,7 @@
 TAMU - ECEN 758 (Data Mining and Analysis) Project \
 The take of Team "Confusion Matrix" on FashionMNIST
 
-Step 1: Statistical explopration of the dataset
+Step 1: Statistical exploration of the dataset
 Step 2: Train Random Forest Classifier as a baseline model
 Step 3: Train XGBoost Classifier and show improvement in classification
 Step 4: Train the Xception CNN model for final submission
@@ -23,5 +23,3 @@ Performance of Xception ---->
            9       0.97      0.96      0.97      1000
 
     accuracy                           0.91     10000
-   macro avg       0.91      0.91      0.91     10000
-weighted avg       0.91      0.91      0.91     10000
