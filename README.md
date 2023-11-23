@@ -9,9 +9,12 @@ Step 4: Train the Xception CNN model for final submission
 
 Performance of Xception ---->
 
-accuracy score: 91.2
-precision score: 91.8
-recall score: 90.5
+accuracy score: 91.2\
+precision score: 91.8\
+recall score: 90.5\
+
+Final classification report | Detailed metrics w.r.t different classes of data
+
 
               precision    recall  f1-score   support
 
@@ -26,4 +29,3 @@ recall score: 90.5
            8       0.98      0.98      0.98      1000
            9       0.97      0.96      0.97      1000
 
-    accuracy                           0.91     10000
