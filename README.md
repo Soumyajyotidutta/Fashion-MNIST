@@ -11,7 +11,7 @@ Performance of Xception ---->
 
 accuracy score: 91.2\
 precision score: 91.8\
-recall score: 90.5\
+recall score: 90.5
 
 Final classification report | Detailed metrics w.r.t different classes of data
 
