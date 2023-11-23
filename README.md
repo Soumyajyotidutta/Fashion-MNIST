@@ -29,3 +29,4 @@ Final classification report | Detailed metrics w.r.t different classes of data
            8       0.98      0.98      0.98      1000
            9       0.97      0.96      0.97      1000
 
+BLOG: https://confusionmatrix.netlify.app/
